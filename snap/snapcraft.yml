@@ -1,0 +1,17 @@
+name: cheshire-cat-ai
+title: Cheshire Cat AI
+summary: A production-ready AI Assistant Framework
+description: |
+  The Cheshire Cat is an open-source, hackable and production-ready framework that allows developing intelligent personal AI assistant agents on top of Large Language Models (LLM).
+
+  **Author**
+
+  This snap is maintained by kodaline, and is not necessarily endorsed or officially maintained by the upstream developers.
+
+website: https://cheshirecat.ai
+contact: https://github.com/kodaline/snap-cheshire-cat-ai/issues
+issues: https://github.com/kodaline/snap-cheshire-cat-ai/issues
+source-code: https://github.com/kodaline/snap-cheshire-cat-ai
+license: AGPL
+icon: snap/cat.png
+version: 0.0.1
